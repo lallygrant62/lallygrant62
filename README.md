@@ -1,4 +1,4 @@
-### lallygrant
+### - **Discord**: [lallygrant](https://discord.com/users/lallygrant)
 
 <!--
 **lallygrant62/lallygrant62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
